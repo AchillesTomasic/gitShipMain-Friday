@@ -18,7 +18,11 @@ class Person {
   Letter[] display = { _a, _b, _c };
   
   Person(){
+<<<<<<< HEAD
     SetIdentity(2);
+=======
+    SetIdentity(1);
+>>>>>>> main
   }
   
   void SetIdentity(int i){
